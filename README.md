@@ -9,6 +9,7 @@ Uses Python to organize photos within Best Quality's Disk Server
 
 - Why are these an issue?
 > Missing/Misplaced Photos significantly slows down the processs of Importing/Posting products to online retailers
+> 
 > Missing/Misplaced photos are discovered/resolved spontaneously, so the storage of photos is never completely organized at any given time
 
 === SOLUTION ===
